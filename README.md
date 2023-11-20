@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anonymespy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JS
 
 <!---
 anonymespy/anonymespy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
